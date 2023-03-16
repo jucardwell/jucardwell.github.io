@@ -5,8 +5,8 @@ permalink: /publication/paper-title-number-3
 excerpt: 'This paper explores impacts to EMS service during flood scenarios in Western North Carolina.'
 date: 2022-11-22
 venue: 'Journal of Rural Social Sciences'
-paperurl: 'http://jucardwell.github.io/files/trends.pdf'
-citation: 'Cardwell, Julia. "Disruption to EMS Service During Flood Scenarios in Western North Carolina." Journal of Rural Social Sciences 37, no. 3 (2022): 6.'
+paperurl: 
+citation: 
 ---
 This paper explores impacts to EMS service during flood scenarios in Western North Carolina.
 
