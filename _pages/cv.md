@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here](http://academicpages.github.io/files/Cardwell_CV_112022.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Environmental Studies, Davidson College, 2019
+* M.A. in Geography, University of North Carolina at Chapel Hill, 2022
+* Ph.D in Geography, University of North Carolina at Chapel Hill, 2025 (expected)
 
 Work experience
 ======
