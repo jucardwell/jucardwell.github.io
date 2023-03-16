@@ -1,14 +1,14 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/paper-title-number-1
+excerpt: 'This paper looks at the relationship between hurricanes and flood insurance uptake the previous year.'
+date: 2021
+venue: 'North Carolina Geographer'
 paperurl: 'trends.pdf'
 citation: 'Cardwell, Julia. "Trends in Flood Insurance Behavior Following Hurricanes in North Carolina." North Carolina Geographer 20 (2021): 2-12.'
 ---
-This paper looks at the relationship between 
+This paper looks at the relationship between hurricanes and flood insurance uptake the previous year. 
 [Download paper here](http://jucardwell.github.io/files/trends.pdf)
 
 Recommended citation: Cardwell, Julia. "Trends in Flood Insurance Behavior Following Hurricanes in North Carolina." North Carolina Geographer 20 (2021): 2-12.
