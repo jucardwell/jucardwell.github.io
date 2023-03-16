@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Disruption to EMS Service During Flood Scenarios in Western North Carolina"
 collection: publications
 permalink: /publication/paper-title-number-3
 excerpt: 'This paper explores impacts to EMS service during flood scenarios in Western North Carolina.'
@@ -8,7 +8,7 @@ venue: 'Journal of Rural Social Sciences'
 paperurl: 
 citation: 
 ---
-This paper explores impacts to EMS service during flood scenarios in Western North Carolina.
+Given that the intensity and frequency of flood events will increase under climate change scenarios, the ability to model potential impacts, such as those to healthcare access, will become increasingly important. This study analyzes EMS response time under both a historical (Tropical Storm Fred in August 2021) and a modeled flood event (FEMA’s 100-yr floodplain) in western North Carolina, a predominantly rural area. The results indicate that network disruption during flood events is a concern in the study area, and while the historical event produced moderate disruption, the 100-yr event produced major disruptions throughout the study area. This research emphasizes the importance of network vulnerability analyses in rural areas, which has previously been understudied.
 
 [Download paper here](http://jucardwell.github.io/files/ems.pdf)
 
