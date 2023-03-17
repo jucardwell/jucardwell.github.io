@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-title-number-4
 excerpt: 'This paper explores the changing role of humans in the field od disaster studies.'
 date: 2022-11-22
-venue: 'Journal of Rural Social Sciences'
+venue: 'Journal of the Bulgarian Geographical Society'
 paperurl: 
 citation: 
 ---
