@@ -2,7 +2,7 @@
 title: "Trends in recovery aid concentration following Hurricane Florence in North Carolina: Exploring the role of physical damage, community vulnerability, and Hurricane Matthew"
 collection: publications
 permalink: /publication/paper-title-number-6
-excerpt: 'This paper explores local news sentiment towards FEMA recovery efforts after Hurricane Florence in North Carolina by analyzing over 700 local news stories'
+excerpt: 'This paper explores trends in federal aid payout in North Carolina after Hurricane Florence.'
 date: 2022-08-11
 venue: 'Environmental Hazards'
 paperurl: 

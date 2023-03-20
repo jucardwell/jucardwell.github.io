@@ -9,7 +9,9 @@ location: "Chapel Hill, North Carolina"
 ---
 
 Lead Instructor- Summer 2023
+
 Grading Support- Fall 2022
+
 TA- Fall 2021
 
 If you are interested in taking this course in Summer 2023 and have any questions, please email me! (jmcard@email.unc.edu)

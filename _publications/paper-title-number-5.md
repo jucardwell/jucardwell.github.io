@@ -2,7 +2,7 @@
 title: "Local news sentiment towards FEMA recovery efforts after Hurricane Florence in North Carolina"
 collection: publications
 permalink: /publication/paper-title-number-5
-excerpt: 'This paper explores local news sentiment towards FEMA recovery efforts after Hurricane Florence in North Carolina by analyzing over 700 local news stories'
+excerpt: 'This paper explores local news sentiment towards FEMA recovery efforts after Hurricane Florence in North Carolina by analyzing over 700 local news stories.'
 date: 2022-12-09
 venue: 'Disasters'
 paperurl: 
