@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/GEOG215
 venue: "University of North Carolina at Chapel Hill"
-date: 2021-2024
+date: 2024-05-15
 location: "Chapel Hill, North Carolina"
 ---
 
