@@ -1,12 +1,13 @@
 ---
-permalink: /
-title: "Dissertation Work"
-excerpt: "Dissertation Work"
+layout: archive
+title: "CV"
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /dissertation/
-  - /dissertation.html
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 I am a PhD candidate in the Department of Geography and Environment at the University of North Carolina, Chapel Hill and a Graduate Research Associate at the [Southeast Regional Climate Center](https://sercc.com/). 
 
