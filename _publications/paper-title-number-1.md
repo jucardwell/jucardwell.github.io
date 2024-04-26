@@ -12,4 +12,4 @@ In the past fifty years, North Carolina has experienced damage from a number of 
 
 [Download paper here](http://jucardwell.github.io/files/trends.pdf)
 
-Recommended citation: Cardwell, Julia. "Trends in Flood Insurance Behavior Following Hurricanes in North Carolina." North Carolina Geographer 20 (2021): 2-12.
+Recommended citation: Cardwell, J. (2021). Trends in flood insurance behavior following hurricanes in North Carolina. North Carolina Geographer, 20, 2-12.
