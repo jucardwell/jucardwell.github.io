@@ -2,8 +2,8 @@
 title: "Examining the shifting role of the human in disaster studies"
 collection: publications
 permalink: /publication/paper-title-number-4
-excerpt: 'This paper explores the changing role of humans in the field of disaster studies.'
-date: 2022-11-22
+excerpt: 
+date: 2022
 venue: 'Journal of the Bulgarian Geographical Society'
 paperurl: 
 citation: 
@@ -12,4 +12,4 @@ This review essay considers the development of the field of disaster studies and
 
 [Download paper here](http://jucardwell.github.io/files/human.pdf)
 
-Recommended citation: Cardwell, J., 2022. Examining the shifting role of the human in disaster studies. Journal of the Bulgarian Geographical Society, 46, pp.51-55.
+Recommended citation: Cardwell, J. (2022). Examining the shifting role of the human in disaster studies. Journal of the Bulgarian Geographical Society, 46, 51-55.
