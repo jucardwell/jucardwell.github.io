@@ -2,7 +2,7 @@
 title: "Trends in Flood Insurance Behavior Following Hurricanes in North Carolina"
 collection: publications
 permalink: /publication/paper-title-number-1
-excerpt: 
+excerpt: This paper tracks flood insurance uptake in North Carolina from 1996-2022 after major hurricanes.
 date: 2021-08-18
 venue: 'North Carolina Geographer'
 paperurl: 
