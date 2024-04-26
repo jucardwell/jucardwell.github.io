@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Dissertation Work"
 permalink: /dissertation/
 author_profile: true
 redirect_from:
