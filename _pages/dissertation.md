@@ -2,7 +2,7 @@
 permalink: /
 title: "Dissertation Work"
 excerpt: "Dissertation Work"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /dissertation/
   - /dissertation.html
