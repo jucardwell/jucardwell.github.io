@@ -16,6 +16,9 @@ TA- Fall 2021
 
 If you are interested in taking this course in Summer 2024 and have any questions, please email me! (jmcard@email.unc.edu)
 
+View Summer 2023 Syllabus [here](http://jucardwell.github.io/files/Summer23_GEOG215_Syllabus.pdf)
+
+
 This class counts for:
 Data and Computational Thinking requirement for Data Science minor
 Core course in GIS minor
