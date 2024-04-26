@@ -15,7 +15,7 @@ Education
 ======
 * B.A. in Environmental Studies, Davidson College, 2019
 * M.A. in Geography, University of North Carolina at Chapel Hill, 2022
-* Ph.D in Geography, University of North Carolina at Chapel Hill, 2025 (expected)
+* Ph.D. in Geography, University of North Carolina at Chapel Hill, 2025 (expected)
 
 Current Positions
 ======
