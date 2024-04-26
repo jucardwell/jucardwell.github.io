@@ -3,7 +3,7 @@ title: "Trends in recovery aid concentration following Hurricane Florence in Nor
 collection: publications
 permalink: /publication/paper-title-number-6
 excerpt: 
-date: 2023
+date: 2023-10-01
 venue: 'Environmental Hazards'
 paperurl: 
 citation: 
