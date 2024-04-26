@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](http://jucardwell.github.io/files/Cardwell_CV_32023.pdf)
+[Download my CV here](http://jucardwell.github.io/files/Cardwell_CV_042024.pdf)
 
 Education
 ======
@@ -20,7 +20,6 @@ Education
 Current Positions
 ======
 * Graduate Research Assistant- Southeast Regional Climate Center
-* Data Verification Specialist- Odum Institute
 
 Publications
 ======
@@ -39,7 +38,4 @@ Skills
 * Languages: R, Python, VB.NET, JavaScript
 * Technologies: ArcGIS Pro, ArcMap, ArcGIS Online, QGIS, Google Earth Engine, SPSS, ENVI
 
-Service and Leadership
-======
-* Co-President, Graduate Association of Geography Students at UNC Chapel Hill (Fall 2022 - Spring 2023)
-* Graduate Representative, Department of Geography Graduate Committee at UNC Chapel Hill (Fall 2020-Spring 2022)
+
