@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Julia Cardwell"
   avatar           : "profile.png"
-  bio              : "Geography PhD student at UNC Chapel Hill interested in impacts of extreme weather events"
+  bio              : "Geography Ph.D. candidate at UNC Chapel Hill interested in social impacts of extreme weather events"
   location         : "Carrboro, NC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YFlmRlIAAAAJ&hl=en&oi=ao"
   email            : "jmcard@email.unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3481-438X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : &twitter "julia__cardwell"
+  twitter          : # &twitter "julia__cardwell"
   vine             :
   weibo            :
   xing             :
