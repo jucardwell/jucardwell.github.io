@@ -3,8 +3,8 @@ title: "GEOG215: Introduction to Spatial Data Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/GEOG215
-venue: "University of North Carolina at Chapel Hill, Department of Geography and Environment"
-date: 2023-07-01
+venue: "University of North Carolina at Chapel Hill"
+date: 2021-2024
 location: "Chapel Hill, North Carolina"
 ---
 
