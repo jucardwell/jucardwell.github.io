@@ -3,7 +3,7 @@ title: "Disruption to EMS Service During Flood Scenarios in Western North Caroli
 collection: publications
 permalink: /publication/paper-title-number-3
 excerpt: 
-date: 2022
+date: 2022-11-22
 venue: 'Journal of Rural Social Sciences'
 paperurl: 
 citation: 
