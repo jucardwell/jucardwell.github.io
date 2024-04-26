@@ -3,7 +3,7 @@ title: "Community perceptions of a floodplain buyout program in Charlotte, North
 collection: publications
 permalink: /publication/paper-title-number-2
 excerpt: 
-date: 2023
+date: 2023-02-01
 venue: 'Natural Hazards'
 paperurl: 
 citation: 
