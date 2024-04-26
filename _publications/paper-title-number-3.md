@@ -2,7 +2,7 @@
 title: "Disruption to EMS Service During Flood Scenarios in Western North Carolina"
 collection: publications
 permalink: /publication/paper-title-number-3
-excerpt: 
+excerpt: This paper analyzes accessibility for EMS provisioning during a historical and modeled flood scenario in Western NC
 date: 2022-11-22
 venue: 'Journal of Rural Social Sciences'
 paperurl: 
