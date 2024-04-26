@@ -2,7 +2,7 @@
 title: "Local news sentiment towards FEMA recovery efforts after Hurricane Florence in North Carolina"
 collection: publications
 permalink: /publication/paper-title-number-5
-excerpt: 
+excerpt: This paper examines local news framing after Hurricane Florence in North Carolina 
 date: 2023-10-01
 venue: 'Disasters'
 paperurl: 
