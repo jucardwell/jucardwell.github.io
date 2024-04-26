@@ -8,13 +8,13 @@ date: 2023-07-01
 location: "Chapel Hill, North Carolina"
 ---
 
-Lead Instructor- Summer 2023
+Lead Instructor- Summer 2023, Summer 2024
 
-Grading Support- Fall 2022
+Grading Support- Fall 2022, Fall 2023
 
 TA- Fall 2021
 
-If you are interested in taking this course in Summer 2023 and have any questions, please email me! (jmcard@email.unc.edu)
+If you are interested in taking this course in Summer 2024 and have any questions, please email me! (jmcard@email.unc.edu)
 
 This class counts for:
 Data and Computational Thinking requirement for Data Science minor
