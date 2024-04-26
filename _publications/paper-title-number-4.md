@@ -3,7 +3,7 @@ title: "Examining the shifting role of the human in disaster studies"
 collection: publications
 permalink: /publication/paper-title-number-4
 excerpt: 
-date: 2022
+date: 2022-7-22
 venue: 'Journal of the Bulgarian Geographical Society'
 paperurl: 
 citation: 
