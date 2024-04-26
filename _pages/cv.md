@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](http://jucardwell.github.io/files/Cardwell_CV_042024.pdf)
+[Download my CV here](http://jucardwell.github.io/files/Cardwell_CV_04262024.pdf)
 
 Education
 ======
@@ -35,7 +35,7 @@ Teaching
   
 Skills
 ======
-* Languages: R, Python, VB.NET, JavaScript
+* Languages: R, Python, VB.NET, JavaScript, Stata
 * Technologies: ArcGIS Pro, ArcMap, ArcGIS Online, QGIS, Google Earth Engine, SPSS, ENVI
 
 
