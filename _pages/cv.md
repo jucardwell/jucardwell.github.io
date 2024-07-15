@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](http://jucardwell.github.io/files/Cardwell_CV_04262024.pdf)
+[Download my full CV here](http://jucardwell.github.io/files/Cardwell_CV_04262024.pdf)
 
 Education
 ======
