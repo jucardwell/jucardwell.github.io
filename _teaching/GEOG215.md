@@ -2,7 +2,7 @@
 title: "Introduction to Spatial Data Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/GEOG215
+permalink: /teaching/spatial_data_science
 venue: "University of North Carolina at Chapel Hill"
 date: 2024-05-15
 location: "Chapel Hill, North Carolina"
