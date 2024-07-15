@@ -1,7 +1,7 @@
 ---
 title: "Remote Sensing and Natural Hazards"
 collection: teaching
-type: "Course in development"
+type: "Undergraduate Course"
 permalink: /teaching/remote_sensing_natural_hazards
 venue: "In Development"
 date: 2024-07-15
