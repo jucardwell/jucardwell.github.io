@@ -1,5 +1,5 @@
 ---
-title: "GEOG215: Introduction to Spatial Data Science"
+title: "Introduction to Spatial Data Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/GEOG215
@@ -7,7 +7,7 @@ venue: "University of North Carolina at Chapel Hill"
 date: 2024-05-15
 location: "Chapel Hill, North Carolina"
 ---
-Course Website: https://jucardwell.github.io/geog215/
+[Course Website](https://jucardwell.github.io/geog215/)
 
 Lead Instructor- Summer 2023, Summer 2024
 
