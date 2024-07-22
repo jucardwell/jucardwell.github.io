@@ -2,7 +2,7 @@
 title: "Community perceptions of a floodplain buyout program in Charlotte, North Carolina"
 collection: publications
 permalink: /publication/paper-title-number-2
-excerpt: This paper examines community perceptions of post buyout land use in Charlotte, North Carolina
+excerpt: This paper examines community perceptions of post buyout land use in Charlotte, North Carolina and finds that community members agree that the floodplain buyout program is effective in reducing flood risk. However, the results indicated that there are salient inequities in “second-level” success of buyout programs (beyond reducing flood risk) where communities with less social and economic capital benefit less from buyout financial incentives and post-buyout land use.
 date: 2023-02-01
 venue: 'Natural Hazards'
 paperurl: 
