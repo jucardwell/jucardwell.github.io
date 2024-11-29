@@ -13,13 +13,15 @@ redirect_from:
 
 Education
 ======
-* B.A. in Environmental Studies, Davidson College, 2019
+* Ph.D. in Geography and Environment, University of North Carolina at Chapel Hill, 2024
 * M.A. in Geography, University of North Carolina at Chapel Hill, 2022
-* Ph.D. in Geography, University of North Carolina at Chapel Hill, 2025 (expected)
+* B.A. in Environmental Studies, Davidson College, 2019
 
 Current Positions
 ======
-* Graduate Research Assistant- Southeast Regional Climate Center
+* Teaching Assistant Professor
+  
+   Department of Geography and Environment, University of North Carolina, Chapel Hill
 
 Publications
 ======
