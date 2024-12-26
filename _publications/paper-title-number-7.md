@@ -1,5 +1,5 @@
 ---
-title: "Trends in recovery aid concentration following Hurricane Florence in North Carolina: Exploring the role of physical damage, community vulnerability, and Hurricane Matthew"
+title: "Impacts of weather-related road closures on daily habitual travel in North Carolina"
 collection: publications
 permalink: /publication/paper-title-number-7
 excerpt: This paper considers the acute and cumulative impact of weather-related road closures in North Carolina and finds that rural areas across the state have been most vulnerable to extreme impacts. 
