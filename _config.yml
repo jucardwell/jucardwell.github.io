@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Julia Cardwell"
 title_separator          : "-"
 name                     : &name "Julia Cardwell"
-description              : &description "Geography PhD student at UNC Chapel Hill"
+description              : &description "Teaching Assistant Professor at UNC Chapel Hill"
 url                      : https://jucardwell.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jucardwell.github.io"
