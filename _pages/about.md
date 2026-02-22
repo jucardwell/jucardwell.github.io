@@ -12,5 +12,5 @@ Hi! I'm Dr. Julia Cardwell and I am a Teaching Assistant Professor in the Depart
 
 I earned a Ph.D. and M.A. in Geography from the University of North Carolina at Chapel Hill and a B.A. in Environmental Studies from Davidson College. My research utilizes graph theory to evaluate structural road network redundancy and transportation equity, specifically focusing on rural areas in North Carolina. In addition, I am broadly interested in non-motorist transport and applying graph theory approaches to identify high-stress conflict points for pedestrians and cyclists.
 
-Outside of the classroom, you can find me refereeing arguments between my pets (two cats and a dog), reading modern horror novels, or birding.
+Outside of the classroom, you can find me refereeing arguments between [my pets (two cats and a dog)](http://jucardwell.github.io/files/IMG_3725.jpeg), reading modern horror novels, or birding.
 
