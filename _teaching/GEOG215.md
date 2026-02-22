@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Spatial Data Science"
+title: "GEOG215: Introduction to Spatial Data Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/spatial_data_science
