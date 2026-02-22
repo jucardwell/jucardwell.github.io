@@ -1,5 +1,5 @@
 ---
-title: "GEOG115: Maps: Geographic Information from "
+title: "GEOG115: Maps: Geographic Information from Babylon to Google"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/maps
