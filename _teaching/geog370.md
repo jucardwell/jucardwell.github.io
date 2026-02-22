@@ -2,7 +2,7 @@
 title: "GEOG370: Introduction to Geographic Information"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/maps
+permalink: /teaching/geog370
 venue: "University of North Carolina, Chapel Hill"
 date: 2025-08-01
 location: "Chapel Hill, North Carolina"
