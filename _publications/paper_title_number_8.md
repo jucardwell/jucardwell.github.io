@@ -3,7 +3,7 @@ title: "A population-based, demand-aware framework for measuring structural road
 collection: publications
 permalink: /publication/paper-title-number-8
 excerpt: This paper proposes a graph-theory based methodology for calculating road network redundancy that considers origin-level demand.
-date: 2024-12-01
+date: 2026-02-01
 venue: 'Journal of Transport Geography'
 paperurl: 
 citation: 
