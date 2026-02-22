@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/maps
 venue: "University of North Carolina, Chapel Hill"
-date: 2025-01-08
+date: 2026-01-01
 location: "Chapel Hill, North Carolina"
 ---
 
