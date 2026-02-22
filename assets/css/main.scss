@@ -39,14 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* ---- Custom spacing fixes ---- */
-
-p + ul {
-  margin-top: 0;
-}
-
-strong {
-  display: block;
-  margin-bottom: 0;
-}
