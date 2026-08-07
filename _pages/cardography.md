@@ -51,6 +51,8 @@ The way you think about direction, distance, and location may feel obvious, but 
 
 ### Episode 6: Babylonian Maps
 Long before satellites or coordinates, the Babylonians were putting space onto clay tablets. This episode looks at two Babylonian maps — one considered the oldest known property survey, the other often called the oldest surviving world map — and what they reveal about a society learning to measure, own, and make sense of space.
+[Si.427 Tablet](https://www.smithsonianmag.com/smart-news/ancient-tablet-shows-babylonians-used-pythagorean-geometry-1000-years-pythagoras-180978376/)
+[Babylonian World Map](https://www.britishmuseum.org/collection/object/W_1882-0714-509)
 
 <audio controls style="width:100%">
   <source src="../files/ep6_audio.mp3" type="audio/mpeg">
@@ -59,6 +61,8 @@ Long before satellites or coordinates, the Babylonians were putting space onto c
 
 ### Episode 7: Sacred Centers
 For most of history, a map’s job wasn’t to get you somewhere, but to explain something important about your place in space. This episode explores two medieval mapping traditions built around sacred centers, and shows how space itself could be organized by belief rather than physical geography.
+[T-O Map](https://en.wikipedia.org/wiki/T_and_O_map)
+[Qibla Map](https://press.uchicago.edu/books/hoc/HOC_V2_B1/HOC_VOLUME2_Book1_chapter9.pdf)
 
 <audio controls style="width:100%">
   <source src="../files/ep7_audio.mp3" type="audio/mpeg">
@@ -67,6 +71,9 @@ For most of history, a map’s job wasn’t to get you somewhere, but to explain
 
 ### Episode 8: Hierarchies of the World
 Not every map is trying to show you what the world looks like, some are trying to show you how it's ordered. This episode looks at mapping traditions from Japan and Korea where size and placement reflect political power and status. 
+[Gyoki-style Map](https://content.ucpress.edu/chapters/11366.ch01.pdf)
+[Kangido Map](https://nwcartographic.com/blogs/essays-articles/the-kangnido-map?srsltid=AfmBOorlJXjCmqioKzJ-H3mnBioikY9bEU9oGF2YoRGeZCi8zYq2vyhB)
+[Amalgamated Map of the Ming Empire](https://thecartographicinstitute.com/the-da-ming-hun-yi-tu-mapping-ming-dynastys-majesty/)
 
 <audio controls style="width:100%">
   <source src="../files/ep8_audio.mp3" type="audio/mpeg">
@@ -75,7 +82,9 @@ Not every map is trying to show you what the world looks like, some are trying t
 
 ### Episode 9: Space Through Time
 This episode explores mapping traditions where space and time are inseparable, from Roman itinerary maps to the Aztec Codex Mendoza.
-
+[Paris Itinerary Map](https://smarthistory.org/matthew-pariss-itinerary-maps-from-london-to-palestine/)
+[Peutinger Map](https://commons.wikimedia.org/wiki/File:TabulaPeutingeriana.jpg)
+[Codex Mendoza](https://dia.upenn.edu/en/maps/MEX0179/)
 <audio controls style="width:100%">
   <source src="../files/ep9_audio.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -83,6 +92,8 @@ This episode explores mapping traditions where space and time are inseparable, f
 
 ### Episode 10: The Grid 
 Why does the map on your phone still run on math invented in ancient Greece? This episode traces the classical lineage behind our coordinate grid.
+[Reconstruction of Anaximander's Map](https://digitalmapsoftheancientworld.com/ancient-maps/anaximanders-map/)
+[Ptolemy's Geographia](https://www.geographyrealm.com/ptolemys-geographia/)
 
 <audio controls style="width:100%">
   <source src="../files/ep10_audio.mp3" type="audio/mpeg">
@@ -91,7 +102,9 @@ Why does the map on your phone still run on math invented in ancient Greece? Thi
 
 ### Episode 11: Measured Geography
 Ptolemy's coordinate system vanished from Western Europe for centuries before being rediscovered right as colonial expansion needed it. This episode asks how measured, gridded space became the default, seemingly "neutral" way to represent the world.
-
+[Fra Mauro's World Map](https://mostre.museogalileo.it/framauro/en/)
+[Sebastian Münster's map of the Holy Land](https://www.geographicus.com/P/AntiqueMap/holyland-munster-1552)
+[Christian van Adrichem's map of Jerusalem](https://education-en.nli.org.il/poster-competition/reczNVXGE3St5kUyq)
 <audio controls style="width:100%">
   <source src="../files/ep11_audio.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -107,6 +120,12 @@ Once space can be measured, what happens when someone uses that measurement to d
 
 ### Episode 13: Drawing the Line
 Not all borders are drawn the same way. This episode contrasts negotiated boundary-making with imposed boundary-making, from the Treaty of Tordesillas to the colonial partition of Africa.
+[Philipp Apian's Maps of Bavaria](https://www.digitale-sammlungen.de/en/view/bsb00070101?page=,1)
+[Treaty of Tordesillas](https://education.nationalgeographic.org/resource/treaty-tordesillas/)
+[Jefferson's Grid](https://www.recivilization.net/UrbanDesignPrimer/111theamericangrid.php)
+[Nine-dash Line Map](https://www.beijingscroll.com/p/tracing-chinas-historical-practice)
+[Sykes-Picot Map](https://daily.jstor.org/maps-created-modern-middle-east/)
+[Colonization of Africa](https://www.loc.gov/resource/gdcwdl.wdl_15665/)
 
 <audio controls style="width:100%">
   <source src="../files/ep13_audio.mp3" type="audio/mpeg">
@@ -115,7 +134,7 @@ Not all borders are drawn the same way. This episode contrasts negotiated bounda
 
 ### Episode 14: Governing Space
 Why is it easier for a state to govern space than to govern people one at a time? This episode draws on James C. Scott's idea of "legibility" and Foucault's reading of the Panopticon to explore the notion of "spatial governance".
-
+[Panopticon](https://upload.wikimedia.org/wikipedia/commons/1/11/Panopticon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 <audio controls style="width:100%">
   <source src="../files/ep14_audio.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -123,6 +142,11 @@ Why is it easier for a state to govern space than to govern people one at a time
 
 ### Episode 15: Moralizing Maps
 What happens when a map diagnoses a neighborhood as the cause of disease, danger, or disorder? This episode traces that pattern across four case studies, from Victorian sanitary maps to American redlining.
+[Sanitary Map of Leeds](https://digital.library.cornell.edu/catalog/ss:19343540)
+[San Francisco Vice Map](https://www.wired.com/2013/09/1885-map-san-francisco-chinatow/)
+[Durham Redlining Map](https://dsl.richmond.edu/panorama/redlining/map/NC/Durham/context#loc=14/35.9992/-78.906)
+[Italy Covid Zone Map](https://www.wantedinrome.com/news/covid-19-in-italy-what-you-can-and-cant-do-in-a-yellow-zone.html)
+
 <audio controls style="width:100%">
   <source src="../files/ep15_audio.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -138,6 +162,7 @@ Two technologies, built independently for different reasons, converged to create
 
 ### Episode 17: The Birth of GIS
 This episode tells the twin origin story of geographic information systems, born independently at Harvard and in a Canadian government office.
+[SYMAP](https://www.gsd.harvard.edu/2024/11/a-new-way-of-seeing-the-laboratory-for-computer-graphics-and-spatial-analysis/)
 
 <audio controls style="width:100%">
   <source src="../files/ep17_audio.mp3" type="audio/mpeg">
