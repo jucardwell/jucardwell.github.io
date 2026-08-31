@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my full CV here](http://jucardwell.github.io/files/julia_cv_042026.pdf)
+[Download my full CV here](http://jucardwell.github.io/files/julia_cv_fa2026.pdf)
 
 ## Julia Cardwell — CV Summary
 
 **Current Role**  
-Teaching Assistant Professor in Spatial Data Science, UNC Chapel Hill (January 2025–present)
+Teaching Assistant Professor in Spatial Data Science, UNC Chapel Hill (January 2025–present) 
+
 Lead Instructor, Masters of Applied Data Science, School of Data & Information Sciences, UNC Chapel Hill (January 2026-present)
 
 **Education**
@@ -26,7 +27,7 @@ Lead Instructor, Masters of Applied Data Science, School of Data & Information S
 Weather impacts, graph theory, rural road networks, pedestrian networks, network redundancy
 
 **Teaching**
-- **Geospatial Technology, Maps, and Society(GEOG115)**  
+- **Geospatial Technology, Maps, and Society (GEOG115)**  
   Fall 2026; Spring 2026; Fall 2025; Spring 2025
 - **Introduction to Spatial Data Science (GEOG215)**  
   Spring 2026; Summer 2024; Summer 2023
@@ -38,6 +39,8 @@ Weather impacts, graph theory, rural road networks, pedestrian networks, network
   Spring 2025
 - **Geospatial Data Analysis with Google Earth Engine (GEOG567)**  
   Fall 2026
+- **Scaling Up Geospatial Analysis (GEOG586)**  
+  Spring 2026
 
 **Technical Skills**  
 R, Python, Stata, JavaScript; ArcGIS, QGIS, Google Earth Engine, SPSS; cluster computing
