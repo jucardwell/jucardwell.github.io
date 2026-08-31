@@ -8,7 +8,7 @@ date: 2025-08-01
 location: "Chapel Hill, North Carolina"
 ---
 
-[Course Website] (https://jucardwell.github.io/geog370_text/)
+[Course Website](https://jucardwell.github.io/geog370_text/)
 
 Lead Instructor: Fall 2026, Fall 2025
 

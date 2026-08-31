@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my full CV here](http://jucardwell.github.io/files/julia_cv_fa2026.pdf)
+[Download my full CV here](http://jucardwell.github.io/files/julia_cv_0826.pdf)
 
 ## Julia Cardwell — CV Summary
 
@@ -31,11 +31,11 @@ Weather impacts, graph theory, rural road networks, pedestrian networks, network
   Fall 2026; Spring 2026; Fall 2025; Spring 2025
 - **Introduction to Spatial Data Science (GEOG215)**  
   Spring 2026; Summer 2024; Summer 2023
-- **Introduction to Geographic Information (GEOG370)**  
+- **Geographic Information Science (GEOG370)**  
   Fall 2026; Fall 2025
 - **Quantitative Methods in Geography (GEOG391)**  
   Summer 2026; Spring 2026
-- **Introduction to Geographic Information Systems (GEOG491)**  
+- **Principles of Geographic Information Systems (GEOG491)**  
   Spring 2025
 - **Geospatial Data Analysis with Google Earth Engine (GEOG567)**  
   Fall 2026

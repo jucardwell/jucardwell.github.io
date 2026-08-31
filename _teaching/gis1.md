@@ -1,5 +1,5 @@
 ---
-title: "GEOG491: Introduction to GIS"
+title: "GEOG491: Principles of Geographic Information Systems"
 collection: teaching
 type: "Graduate/Undergraduate Course"
 permalink: /teaching/advgis
