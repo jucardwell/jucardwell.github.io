@@ -140,6 +140,13 @@ Why is it easier for a state to govern space than to govern people one at a time
   Your browser does not support the audio element.
 </audio>
 
+### Bonus Episode: Capital Matrix Theory 
+Guest Host: Clarissa Seavy (Fall 2026)
+<audio controls style="width:100%">
+  <source src="../files/capitalmatrix.m4a" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ### Episode 15: Moralizing Maps
 What happens when a map diagnoses a neighborhood as the cause of disease, danger, or disorder? This episode traces that pattern across four case studies, from Victorian sanitary maps to American redlining.
 [Sanitary Map of Leeds](https://digital.library.cornell.edu/catalog/ss:19343540)
