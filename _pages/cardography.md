@@ -100,6 +100,14 @@ Why does the map on your phone still run on math invented in ancient Greece? Thi
   Your browser does not support the audio element.
 </audio>
 
+### Bonus Episode: Map Projections
+Guest Host: Esther Zhu (Fall 2026)
+
+<audio controls style="width:100%">
+  <source src="../files/Projections.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ### Episode 11: Measured Geography
 Ptolemy's coordinate system vanished from Western Europe for centuries before being rediscovered right as colonial expansion needed it. This episode asks how measured, gridded space became the default, seemingly "neutral" way to represent the world.
 [Fra Mauro's World Map](https://mostre.museogalileo.it/framauro/en/)
@@ -159,6 +167,23 @@ What happens when a map diagnoses a neighborhood as the cause of disease, danger
   Your browser does not support the audio element.
 </audio>
 
+### Bonus Episode: The City That Hid Its Poor
+Guest Host: Matthew Lucas (Fall 2026)
+
+<audio controls style="width:100%">
+  <source src="../files/mapthathidpoor.m4a" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+### Bonus Episode: The Crooked Line: Broadway and the Map That Tried to Erase Manhattan's Past
+Guest Host: Immanuel Jones (Fall 2026)
+
+<audio controls style="width:100%">
+  <source src="../files/crookedline.m4a" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
 ### Episode 16: Modern Mapping Technology
 Two technologies, built independently for different reasons, converged to create the modern map: GPS and satellite imagery. This episode tells the story of how they came together.
 
@@ -184,10 +209,34 @@ Mapmaking authority has shifted from states to corporations. This episode traces
   Your browser does not support the audio element.
 </audio>
 
+### Bonus Episode: GeoGuessr
+Guest Host: Ben Getter (Fall 2026)
+
+<audio controls style="width:100%">
+  <source src="../files/geoguessr.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ### Episode 19: The Algorithmic Nudge
 Digital maps are increasingly run by algorithms. This episode explores what that means for how we see and navigate our world. 
 
 <audio controls style="width:100%">
   <source src="../files/ep19_audio.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+### Bonus Episode: Gamified Mapping
+Guest Host: Austin Irwin (Fall 2026)
+
+<audio controls style="width:100%">
+  <source src="../files/gamifiedmapping.m4a" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+### Bonus Episode: Snap Map
+Guest Hosts: Lilly Hanus & Peyton Price (Fall 2026)
+
+<audio controls style="width:100%">
+  <source src="../files/snapmap.m4a" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
